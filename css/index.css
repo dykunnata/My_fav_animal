@@ -1,0 +1,52 @@
+nav {
+  height: 50px;
+  background-color: lightgrey;
+}
+
+/* target the class of inline-block below */
+.inline-block {
+  display: inline-block;
+  padding: 15px;
+  color: darkslategrey;
+  font-family: 'Istok Web', sans-serif;
+  background-color: lightslategray;
+  width: 50px;
+  text-align: center;
+}
+/* target the class of .left below */
+
+/* target the class of .right below */
+.left {
+  height: 500px;
+  display: inline-block;
+  background-color: white;
+  width: 20%;
+  vertical-align: top;
+  padding-top: 10px;
+  
+  }
+  .right {
+  height: 500px;
+  display: inline-block;
+  background-color: lightgreen;
+  width: 79%;
+  padding-top: 10px;
+  }
+
+  .block_element{
+    display: inline-block;
+  }
+
+ img {
+   border-radius: 8px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+
+ ul {
+  list-style: none;
+  padding-left: 25px;
+ }
+
+ li {
+   padding-bottom: 18px;
+ }
